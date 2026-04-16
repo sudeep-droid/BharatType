@@ -10,10 +10,10 @@ export default function Footer() {
                     <div className="col-span-1 md:col-span-2">
                         <div className="flex items-center gap-2 mb-6">
                             <div className="w-8 h-8 bg-gradient-to-br from-saffron to-saffron-dark rounded-md flex items-center justify-center text-white font-bold text-lg font-hindi">
-                                M
+                                B
                             </div>
                             <span className="text-xl font-display font-bold text-white tracking-tight">
-                                Mangal<span className="text-saffron">Kruti</span>
+                                Bharat<span className="text-saffron">Type</span>
                             </span>
                         </div>
                         <p className="text-silver max-w-sm leading-relaxed">
