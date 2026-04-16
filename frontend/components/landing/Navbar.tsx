@@ -32,10 +32,10 @@ export default function Navbar() {
                 {/* Logo */}
                 <a href="#" className="flex items-center gap-2 group">
                     <div className="w-10 h-10 bg-gradient-to-br from-saffron to-saffron-dark rounded-lg flex items-center justify-center text-white font-bold text-xl font-hindi shadow-lg shadow-saffron/20 group-hover:scale-105 transition-transform">
-                        M
+                        B
                     </div>
                     <span className="text-xl font-display font-bold text-white tracking-tight">
-                        Mangal<span className="text-saffron">Kruti</span>
+                        Bharat<span className="text-saffron">Type</span>
                     </span>
                 </a>
 
