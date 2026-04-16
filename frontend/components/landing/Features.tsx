@@ -48,7 +48,7 @@ export default function Features() {
         <Section id="features">
             <div className="text-center mb-16">
                 <h2 className="text-3xl md:text-5xl font-display font-bold text-white mb-4">
-                    Why Choose <span className="text-saffron">MangalKruti?</span>
+                    Why Choose <span className="text-saffron">BharatType?</span>
                 </h2>
                 <p className="text-silver max-w-2xl mx-auto">
                     Built for speed, accuracy, and ease of use. Experience the best Hindi font converter.
