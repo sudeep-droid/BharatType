@@ -43,7 +43,7 @@ export default function Footer() {
 
                 <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
                     <p className="text-silver text-sm">
-                        © {new Date().getFullYear()} MangalKruti. All rights reserved.
+                        © {new Date().getFullYear()} BharatType. All rights reserved.
                     </p>
                     <p className="text-silver text-sm flex items-center gap-1">
                         Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> in India
